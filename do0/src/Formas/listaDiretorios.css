@@ -1,0 +1,9 @@
+#table{
+    width: 100%;
+}
+#table_thead{
+    border-bottom: 1px solid #ccc;
+}
+#tr_row{
+    border-bottom: 1px dotted #ccc;
+}
